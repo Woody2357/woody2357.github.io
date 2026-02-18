@@ -2,13 +2,11 @@
 == Di Wu
 
 ~~~
-{}{img_left}{photos/bio.png}{alt text}{400}{300}
+{}{img_left}{photos/bio.png}{alt text}{300}{225}
 
 I’m now a second-year PhD student in Applied Math at the University of Maryland, Collge Park, working with [https://haizhaoyang.github.io Prof. Haizhao Yang]. Prior to that, I received my bachelor's and master's degree in Computational Math from Wuhan university, fortunately advised by [https://scholar.google.com/citations?user=yFDDsVgAAAAJ&hl=en Prof. Yuling Jiao] and [https://scholar.google.com/citations?user=SIJCkXcAAAAJ&hl=en&oi=ao Prof. Xiliang Lu].  \n
 
-I am interested in a wide range of topics related to applied mathematics and machine learning. Currently, my interests are especially in
-- ** Reinforcement Learning: its theoretical foundation and application in scientific computing.
-- ** Optimization: fast algorithms based on numerical linear algebra.
+I am interested in a wide range of topics related to applied mathematics and machine learning. Currently, my interests are especially in *Bayesian statistics*, *optimization* and *reinforcement learning*.
 
 e-mail: dwuwd 'at' umd 'dot' edu \n
 ~~~
