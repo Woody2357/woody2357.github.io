@@ -1,11 +1,34 @@
-# jemdoc: menu{MENU}{publications.html}, showsource
-\n
+# jemdoc: menu{MENU}{publications.html}, showsource, nodate
 = Publications
 
-* **[https://arxiv.org/abs/2502.03749 PINS: Proximal Iterations with Sparse Newton and Sinkhorn for Optimal Transport]**  * \n
-  Di Wu, Ling Liang, Haizhao Yang \n
-  submitted
+- FARMS: A Verifiable Foundation for Automated Computational Science \n
+  *Di Wu*, Ling Liang, Haizhao Yang \n
+  arXiv preprint, 2026 \n
+  [https://arxiv.org/abs/2610.40560 \[arXiv\]] [https://woody2357.github.io/FARMS-Computational-Science/ \[Website\]]
 
-* **[https://ojs.aaai.org/index.php/AAAI/article/view/29517 Neural Network Approximation for Pessimistic Offline Reinforcement Learning]** * \n
-  Di Wu, Yuling Jiao, Li Shen, Haizhao Yang, Xiliang Lu \n
-  Proceedings of the AAAI Conference on Artificial Intelligence (AAAI) 2024
+- SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents \n
+  Youran Sun, Xingyu Ren, Chugang Yi, Kejia Zhang, *Di Wu*, Yingkang Cao, Allen Zhou, Jianping Ye, Suying Liu, Jiaxuan Guo, Jianda Du, Weicheng Ye, Kecheng Liu, Hefan Zhang, Haixin Wang, Jie Xiao, Eric Yang, Haizhao Yang \n
+  arXiv preprint, 2026 \n
+  [https://arxiv.org/abs/2610.21082 \[arXiv\]]
+
+- Beyond Expected Information Gain: Stable Bayesian Optimal Experimental Design with Integral Probability Metrics and Plug-and-Play Extensions \n
+  *Di Wu*, Ling Liang, Haizhao Yang \n
+  arXiv preprint, 2026 \n
+  [https://arxiv.org/abs/2604.21849 \[arXiv\]]
+
+- Randomized Subsystem Descent for Fermion-to-Qubit Mapping \n
+  Gengzhi Yang, *Di Wu*, Haizhao Yang, Xiaodi Wu, Ji Liu \n
+  Accepted to Journal of Chemical Theory and Computation, 2026 \n
+  [https://arxiv.org/abs/2604.17630 \[arXiv\]]
+
+- PINS: Proximal Iterations with Sparse Newton and Sinkhorn for Optimal Transport \n
+  *Di Wu*, Ling Liang, Haizhao Yang \n
+  arXiv preprint, 2025 \n
+  [https://arxiv.org/abs/2502.03749 \[arXiv\]]
+
+- Neural Network Approximation for Pessimistic Offline Reinforcement Learning \n
+  *Di Wu*, Yuling Jiao, Li Shen, Haizhao Yang, Xiliang Lu \n
+  Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024 \n
+  [https://arxiv.org/abs/2312.11863 \[arXiv\]] [https://ojs.aaai.org/index.php/AAAI/article/view/29517 \[Published version\]]
+
+Last updated: October 2026

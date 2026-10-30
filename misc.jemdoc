@@ -1,12 +1,22 @@
-# jemdoc: menu{MENU}{misc.html}, showsource
-\n
+# jemdoc: menu{MENU}{misc.html}, showsource, nodate
 = Miscellaneous
 
 == Professional Services & Activities
 
 - Review Panelist, NASA Research Proposal Review
+- Co-organizer, Minisymposium on Optimal Transport, SIAM MDS 2026 ([https://www.siam.org/conferences-events/siam-conferences/mds26/ link])
 
-== Invited Talks
+- Reviewer: NeurIPS; Frontiers in Applied Mathematics
+
+== Invited/Contributed Talks
+- *Beyond Expected Information Gain: Stable Bayesian Optimal Experimental Design with Integral Probability Metrics and Plug-and-Play Extensions* \n
+  SIAM Conference on Mathematics of Data Science, Salt Lake City, November 2026
+
+- *Beyond Expected Information Gain: Stable Bayesian Optimal Experimental Design with Integral Probability Metrics and Plug-and-Play Extensions* \n
+  2026 INFORMS Annual Meeting, San Francisco, November 2026
+
+- *Beyond Expected Information Gain: Stable Bayesian Optimal Experimental Design with Integral Probability Metrics and Plug-and-Play Extensions* \n
+  Sayas Numerics Day (formerly DelMar Numerics Day), May 2026
 
 - *PINS: Proximal Iterations with Sparse Newton and Sinkhorn for Optimal Transport* [files/pins_gwu_2026.pdf \[Slide\]] \n
   Department of Mathematics, George Washington University, February 2026
@@ -15,10 +25,16 @@
   School of Mathematics and Statistics, Wuhan University, March 2024
 
 == Awards & Honors
+- Mark E. Lachtman Award, University of Maryland, 2026
+- Dean's Fellowship, University of Maryland, 2025 and 2026
 
-- Dean's Fellowship, University of Maryland
-- Leijun Fellowship (CN¥30,000+), Wuhan University
-- First-Class Scholarship (Undergraduate/Graduate), Wuhan University
-- First Prize, Contemporary Undergraduate Mathematical Contest in Modeling (Team Leader)
+=== Earlier Honors
+- Leijun Educational Fund (around 5,000 USD), Wuhan University
+- First-Class Scholarship (Undergraduate & Graduate), Wuhan University
+- First Prize, Contemporary Undergraduate Mathematical Contest in Modeling (Team Leader), CSIAM
+- Outstanding Graduate, Wuhan University
+- Merit Student (3 times), Wuhan University
 - First Prize, National High School Mathematics Competition
 - First Prize, National High School Physics Competition
+
+Last updated: October 2026
