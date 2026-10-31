@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}, showsource, nodate
+# jemdoc: menu{MENU}{index.html}, nodate
 == Di Wu
 
 ~~~
@@ -18,7 +18,7 @@ My previous research focused on Bayesian statistics, optimization, and reinforce
 e-mail: dwuwd 'at' umd 'dot' edu \n
 ~~~
 
-== Research
+== Research {{<a href="https://scholar.google.com/citations?user=U-xGST8AAAAJ&amp;hl=en" style="font-weight: 400; font-size: 80%;">[Google Scholar]</a>}}
 
 - FARMS: A Verifiable Foundation for Automated Computational Science \n
   *Di Wu*, Ling Liang, Haizhao Yang \n
